@@ -7,7 +7,7 @@ I use Axios to get the data and display. I also chose some warm colors to go wit
 
 ## To run the server
 
-Change the working directory to server and run
+Pull this repo and run
 
 <code>
   npm install
